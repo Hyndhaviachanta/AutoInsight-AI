@@ -262,7 +262,7 @@ Potential future improvements include:
 
 ## Author
 
-Hyndhavi Preetham
+Hyndhavi sri Achanta
 
 Master of Science in Computer Science
 
